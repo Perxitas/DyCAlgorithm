@@ -4,5 +4,5 @@
     g++ -g cubicotradicional.cpp -o tradicional
     g++ -g cubicooptimizado -o optimizado
    
-4.-5.- Ejecutar algoritmo de sorteo con dataset deseado, ejemplo:
+4.-Ejecutar algoritmo de sorteo con dataset deseado, ejemplo:
     ./tradicional matriz1_1024x1024.txt matriz2_1024x1024.txt
